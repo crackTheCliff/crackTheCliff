@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cliff Helms || Fullstack Software Engineer
 - 👀 I’m interested in: anything video games, music, film, anime, & of course the CODE!
 - 🌱 I’m currently learning: fullstack Javascript (MERN)
-- 💞️ I’m looking to collaborate on: anything to improve my knowledge!
+- 💞️ I’m looking to collaborate on: anything to expand my knowledge!
 - 📫 How to reach me: cliff.helms.2@gmail.com
 
 <!---
