@@ -8,7 +8,7 @@ I'm an aspiring Software Engineer and am currently attending a bootcamp. The eve
 
 * 🌍  I'm based in New Orleans
 * ✉️  You can contact me at [cliff.helms.2@gmail.com](mailto:cliff.helms.2@gmail.com)
-* 🧠  I'm learning C#
+* 🧠  I'm learning Docker, Typescript, MSQL
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Anime, Music, Film, & Coffee are LIFE!
 
