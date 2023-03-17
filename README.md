@@ -61,7 +61,5 @@ I'm a Software Engineer that entered the industry after attending a coding bootc
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1238247433&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1238247433&redirect=true)
   
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=crackTheCliff)
 </div>
