@@ -58,11 +58,7 @@ I'm a Software Engineer that entered the industry after attending a coding bootc
 
 <a href="https://github.com/crackTheCliff" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackTheCliff&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/crackTheCliff/crackTheCliff/blob/output/github-contribution-grid-snake.svg)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1238247433&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1238247433&redirect=true)
   
