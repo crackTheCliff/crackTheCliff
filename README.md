@@ -20,7 +20,7 @@ I'm a Software Engineer that entered the industry after attending a coding bootc
   ⚡  Anime, Music, Film, & Coffee are LIFE!
   </p>
 
-### Skills
+### Skills:
 
 
 <p align="center">
@@ -46,8 +46,7 @@ I'm a Software Engineer that entered the industry after attending a coding bootc
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Socials
+### Socials:
 
 <p align="center"> <a href="https://discord.com/users/crackTheCliff#5389" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/crackTheCliff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cliff-helms/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/crackthecliff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
