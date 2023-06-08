@@ -3,10 +3,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cliff Helms
 ===================================================================================================================================
 
-Full Stack Software Engineer
-----------------------------
+Software Engineer | Problem Solver | Lifelong Learner
+-----------------------------------------------------
   
-I'm a Software Engineer that entered the industry after attending a coding bootcamp in February of 2023. The everyday challenges that present themselves never make for a boring day. I strive to earn the skills to develop technologies that help people on a everyday basis. I can't wait to see where this adventure leads me!
+Welcome to my GitHub profile! I'm a passionate Software Engineer with a drive to create efficient and robust solutions. With a background in problem-solving and a continuous thirst for knowledge, I entered the tech industry in 02/23 after successfully completing a comprehensive bootcamp in 12/22.
   <p align="center">
   🌍  I'm based in New Orleans, LA
   </p>
@@ -48,7 +48,7 @@ I'm a Software Engineer that entered the industry after attending a coding bootc
 
 ### Socials:
 
-<p align="center"> <a href="https://discord.com/users/crackTheCliff#5389" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/crackTheCliff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cliff-helms/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/crackthecliff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://discord.com/users/crackTheCliff#5389" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cliff-helms/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
 <b>My GitHub Stats</b>
