@@ -8,7 +8,7 @@ Software Engineer | Problem Solver | Lifelong Learner
   
 Welcome to my GitHub profile! I'm a passionate Software Engineer with a drive to create efficient and robust solutions. With a background in problem-solving and a continuous thirst for knowledge, I entered the tech industry in 02/23 after successfully completing a comprehensive bootcamp in 12/22.
   <p align="center">
-  🌍  I'm based in New Orleans, LA
+  🌍  I'm based in Baton Rouge, LA
   </p>
   <p align="center">
   🧠  I'm learning Docker, Typescript, and MS SQL
